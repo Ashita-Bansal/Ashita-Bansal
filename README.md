@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/ashita-bansal-93435a214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashita-bansal-93435a214/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ashita.bansal.980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashita bansal" height="30" width="40" /></a>
 <a href="https://instagram.com/ashita.bansal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashita.bansal_" height="30" width="40" /></a>
-<a href="https://discord.gg/Ashita#6110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ashita#6110" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/Ashita#6110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ashita#6110" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
